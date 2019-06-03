@@ -18293,7 +18293,11 @@
 (^|\.)wikilivres\.info$
 (^|\.)wikimapia\.org$
 (^|\.)wikiwiki\.jp$
+(^|\.)wuu\.wikipedia\.org$
 (^|\.)www\.wikipedia\.org$
+(^|\.)zh-yue\.wikipedia\.org$
+(^|\.)zh\.m\.wikipedia\.org$
+(^|\.)zh\.wikipedia\.org$
 (^|\.)wildammo\.com$
 (^|\.)willw\.net$
 (^|\.)windowsphoneme\.com$
