@@ -8,10 +8,6 @@
 .*\.cn$
 .*\.bilibili\.com$
 .*hdslb.com$
-.*\.weixin.qq\.com$
-.*\.qq\.com$
-.*\.weibo\.com$
-.*\.weino\.cn$
 
 0.0.0.0/8
 10.0.0.0/8
